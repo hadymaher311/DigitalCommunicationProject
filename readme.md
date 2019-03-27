@@ -32,13 +32,13 @@ Binary Phase Shift Keying (BPSK) is a two phase modulation scheme, where the 0â€
 
 ### Plot
 
-- Scatter plot of BPSK after noise: <img src="./BPSK/images/BPSK.JPG" />
-- Scatter plot of BPSK with Raised-Cosine after noise: <img src="./BPSK/images/BPSK_with_raised.JPG" />
+- Scatter plot of BPSK after noise: <p align="center"><img src="./BPSK/images/BPSK.JPG" /></p>
+- Scatter plot of BPSK with Raised-Cosine after noise: <p align="center"><img src="./BPSK/images/BPSK_with_raised.JPG" /></p>
 
 ### BER Graph
 
-- BER graph of BPSK: <img src="./BPSK/images/BPSK_fig.JPG" />
-- BER graph of BPSK with Raised-Cosine: <img src="./BPSK/images/BPSK_with_raised_fig.JPG" />
+- BER graph of BPSK: <p align="center"><img src="./BPSK/images/BPSK_fig.JPG" /></p>
+- BER graph of BPSK with Raised-Cosine: <p align="center"><img src="./BPSK/images/BPSK_with_raised_fig.JPG" /></p>
 
 ## FSK
 
@@ -46,13 +46,13 @@ Frequency Shift Keying (FSK) is the digital modulation technique in which the fr
 
 ### Plot
 
-- Scatter plot of FSK after noise: <img src="./FSK/images/FSK.JPG" />
-- Scatter plot of FSK with Raised-Cosine after noise: <img src="./FSK/images/FSK_with_raised.JPG" />
+- Scatter plot of FSK after noise: <p align="center"><img src="./FSK/images/FSK.JPG" /></p>
+- Scatter plot of FSK with Raised-Cosine after noise: <p align="center"><img src="./FSK/images/FSK_with_raised.JPG" /></p>
 
 ### BER Graph
 
-- BER graph of FSK: <img src="./FSK/images/FSK_fig.JPG" />
-- BER graph of FSK with Raised-Cosine: <img src="./FSK/images/FSK_with_raised_fig.JPG" />
+- BER graph of FSK: <p align="center"><img src="./FSK/images/FSK_fig.JPG" /></p>
+- BER graph of FSK with Raised-Cosine: <p align="center"><img src="./FSK/images/FSK_with_raised_fig.JPG" /></p>
 
 ## QPSK
 
@@ -60,13 +60,13 @@ Quadrature Phase Shift Keying (QPSK) is a variation of BPSK, and it is also a Do
 
 ### Plot
 
-- Scatter plot of QPSK after noise: <img src="./QPSK/images/QPSK.JPG" />
-- Scatter plot of QPSK with Raised-Cosine after noise: <img src="./QPSK/images/QPSK_with_raised.JPG" />
+- Scatter plot of QPSK after noise: <p align="center"><img src="./QPSK/images/QPSK.JPG" /></p>
+- Scatter plot of QPSK with Raised-Cosine after noise: <p align="center"><img src="./QPSK/images/QPSK_with_raised.JPG" /></p>
 
 ### BER Graph
 
-- BER graph of QPSK: <img src="./QPSK/images/QPSK_fig.JPG" />
-- BER graph of QPSK with Raised-Cosine: <img src="./QPSK/images/QPSK_with_raised_fig.JPG" />
+- BER graph of QPSK: <p align="center"><img src="./QPSK/images/QPSK_fig.JPG" /></p>
+- BER graph of QPSK with Raised-Cosine: <p align="center"><img src="./QPSK/images/QPSK_with_raised_fig.JPG" /></p>
 
 ## QAM
 
@@ -74,23 +74,23 @@ Quadrature amplitude modulation (QAM) is the name of a family of digital modulat
 
 ### 16 QAM
 
-- Scatter plot of 16 QAM before and after noise: <img src="./QAM/images/16-QAM.JPG" />
-- Scatter plot of 16 QAM with Raised-Cosine before and after noise: <img src="./16 QAM/images/16 QAM_with_raised.JPG" />
+- Scatter plot of 16 QAM before and after noise: <p align="center"><img src="./QAM/images/16-QAM.JPG" /></p>
+- Scatter plot of 16 QAM with Raised-Cosine before and after noise: <p align="center"><img src="./16 QAM/images/16 QAM_with_raised.JPG" /></p>
 
 ### BER Graph
 
-- BER graph of 16 QAM: <img src="./QAM/images/16-QAM_fig.JPG" />
-- BER graph of 16 QAM with Raised-Cosine: <img src="./QAM/images/16-QAM_with_raised_fig.JPG" />
+- BER graph of 16 QAM: <p align="center"><img src="./QAM/images/16-QAM_fig.JPG" /></p>
+- BER graph of 16 QAM with Raised-Cosine: <p align="center"><img src="./QAM/images/16-QAM_with_raised_fig.JPG" /></p>
 
 ### 64 QAM
 
-- Scatter plot of 64 QAM before and after noise: <img src="./QAM/images/64-QAM.JPG" />
-- Scatter plot of 64 QAM with Raised-Cosine before and after noise: <img src="./64 QAM/images/64 QAM_with_raised.JPG" />
+- Scatter plot of 64 QAM before and after noise: <p align="center"><img src="./QAM/images/64-QAM.JPG" /></p>
+- Scatter plot of 64 QAM with Raised-Cosine before and after noise: <p align="center"><img src="./64 QAM/images/64 QAM_with_raised.JPG" /></p>
 
 ### BER Graph
 
-- BER graph of 64 QAM: <img src="./QAM/images/64-QAM_fig.JPG" />
-- BER graph of 64 QAM with Raised-Cosine: <img src="./QAM/images/64-QAM_with_raised_fig.JPG" />
+- BER graph of 64 QAM: <p align="center"><img src="./QAM/images/64-QAM_fig.JPG" /></p>
+- BER graph of 64 QAM with Raised-Cosine: <p align="center"><img src="./QAM/images/64-QAM_with_raised_fig.JPG" /></p>
 
 ## autor
 
