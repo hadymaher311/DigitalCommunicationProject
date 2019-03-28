@@ -10,7 +10,7 @@ QAM(16-64) in an AWGN environment.
 3. Tweek the AWGN channel Eb/No.
 4. Type `bertool` in Matlab terminal.
 5. Plot the theoretical figure.
-6. In Monte Carlo tab choose the EbNo range and the scheme file then press run to get the graph.
+6. In Monte Carlo tab choose the EbNo range, the scheme file and write `ber` in BER variable name then press run to get the graph.
 
 ## Files
 
@@ -32,8 +32,8 @@ Binary Phase Shift Keying (BPSK) is a two phase modulation scheme, where the 0â€
 
 ### Plot
 
-- Scatter plot of BPSK after noise: <p align="center"><img src="./BPSK/images/BPSK.JPG" /></p>
-- Scatter plot of BPSK with Raised-Cosine after noise: <p align="center"><img src="./BPSK/images/BPSK_with_raised.JPG" /></p>
+- Scatter plot of BPSK before and after noise: <p align="center"><img src="./BPSK/images/BPSK.JPG" /></p>
+- Scatter plot of BPSK with Raised-Cosinebefore and after noise: <p align="center"><img src="./BPSK/images/BPSK_with_raised.JPG" /></p>
 
 ### BER Graph
 
@@ -46,8 +46,8 @@ Frequency Shift Keying (FSK) is the digital modulation technique in which the fr
 
 ### Plot
 
-- Scatter plot of FSK after noise: <p align="center"><img src="./FSK/images/FSK.JPG" /></p>
-- Scatter plot of FSK with Raised-Cosine after noise: <p align="center"><img src="./FSK/images/FSK_with_raised.JPG" /></p>
+- Scatter plot of FSK before and after noise: <p align="center"><img src="./FSK/images/FSK.JPG" /></p>
+- Scatter plot of FSK with Raised-Cosinebefore and  after noise: <p align="center"><img src="./FSK/images/FSK_with_raised.JPG" /></p>
 
 ### BER Graph
 
@@ -60,8 +60,8 @@ Quadrature Phase Shift Keying (QPSK) is a variation of BPSK, and it is also a Do
 
 ### Plot
 
-- Scatter plot of QPSK after noise: <p align="center"><img src="./QPSK/images/QPSK.JPG" /></p>
-- Scatter plot of QPSK with Raised-Cosine after noise: <p align="center"><img src="./QPSK/images/QPSK_with_raised.JPG" /></p>
+- Scatter plot of QPSK before and after noise: <p align="center"><img src="./QPSK/images/QPSK.JPG" /></p>
+- Scatter plot of QPSK with Raised-Cosinebefore and  after noise: <p align="center"><img src="./QPSK/images/QPSK_with_raised.JPG" /></p>
 
 ### BER Graph
 
